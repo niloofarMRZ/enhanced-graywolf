@@ -8,3 +8,5 @@ In this implementation, I tried to use all the datasets introduced in this artic
 2) simple gray wolf
 
 In this comparison, the iris dataset was used jointly in all three methods to be able to properly compare the efficiency of the methods.
+
+papar link: https://www.sciencedirect.com/science/article/abs/pii/S2214579618300297?via%3Dihub
